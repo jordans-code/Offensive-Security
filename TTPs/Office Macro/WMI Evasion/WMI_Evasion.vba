@@ -1,4 +1,4 @@
-'Example taking from a snippet of a project for using office VBA to automatically run a macro on opening of the file.
+'Example taking from a previous project of mine for using office VBA to automatically run a macro upon opening of the file.
 'This will make a folder for staging, download a payload, and then run the payload.
 'All of the above actions are done with WMI evasion to break the process tree and will be called with WMIPrvSE.exe with no direct link to the office document causing this.
 
